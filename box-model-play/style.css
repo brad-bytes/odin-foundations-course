@@ -1,0 +1,6 @@
+html body {
+  box-sizing:border-box;
+  background-color:black;
+  min-height:100vh;
+  margin:0px;
+}
